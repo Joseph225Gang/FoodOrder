@@ -1,1 +1,1 @@
-FoodOrder
+minimal api, ef core
